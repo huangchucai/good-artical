@@ -4,6 +4,7 @@
 
 ### 前端
 【js】 [深入理解javascript原型和闭包](http://www.cnblogs.com/wangfupeng1988/p/3977924.html)
+
 【promise】 [手把手教你实现一个完整的 Promise](http://www.cnblogs.com/huansky/p/6064402.html)
 
 
