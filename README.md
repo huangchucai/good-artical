@@ -9,6 +9,8 @@
 
 【git】[常见的git操作](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651227335&idx=1&sn=54bbf426f7b8358fddcb4a3901255eb3&chksm=bd495d438a3ed45517ce21f33cdd457fb9201ba34d6723a1104df8a9bc0a934737f0df92f9a7&mpshare=1&scene=1&srcid=1127THltv71SFTWHVD6JWsc1#rd)
 
+【js】[import、require、export、module.exports 混合详解](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651227435&idx=2&sn=3ebe8df545436c3ef2cd1443305a5a4e&chksm=bd495caf8a3ed5b9f486b207866f7635ab95589d00cd03dc0ead2496aeb0f457c9fabe056230&scene=0#rd)
+
 
 ### 后端
 【接口】 [restful接口定义](https://zhuanlan.zhihu.com/p/30396391)
