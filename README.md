@@ -13,6 +13,11 @@
 
 【js】[函数柯里化的运用=> 事件兼容，防抖节流，requestAnimationFrame,bind的实现](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651228431&idx=1&sn=c9d62a30a52f4572cc0cb4aaf2a82ef3&chksm=bd49508b8a3ed99dafbe986c77e3d13380a745b1bf8e3c17df96ae46f422ac54f6b108532047&mpshare=1&scene=1&srcid=04264cCKBMqYB7nROT5j1chx#rd)
 
+【js】[从JS垃圾回收机制和词源来透视闭包](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651228474&idx=1&sn=031ea46ca182f2dacf8f65cc30c6566b&chksm=bd4950be8a3ed9a87e24c664dec77bd63bb69e735887ea33dc574358070affb0fbf6eafd9f0b&mpshare=1&scene=1&srcid=0508rKaxhZJReVtmbEocAxHj#rd)
+
+【js】[图说 ES Modules](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651228520&idx=1&sn=f93473a6f06a7a10e268c10a3c7524a9&chksm=bd4950ec8a3ed9fa3e9af3f88c63f71d65da418222651ef4b8ea72aea05c0d08d73cf0c33040&mpshare=1&scene=1&srcid=0508OoVaibn6CiwKyDuwbQS1#rd)
+
+【js】[那些前端MVVM框架是如何诞生的](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651228541&idx=1&sn=50d27f19e54af34eef7d8820f0fa269e&chksm=bd4950f98a3ed9efd3b2de45b9e1049c876daa5227c891d0cf253e04206afbe46cd28312b42f&mpshare=1&scene=1&srcid=0508yBi3osAW1D00sa2XBlRY#rd)
 ### 后端
 【接口】 [restful接口定义](https://zhuanlan.zhihu.com/p/30396391)
 
