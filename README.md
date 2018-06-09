@@ -26,5 +26,8 @@
 ### 浏览器
 【内核】 [浏览器进程？线程？傻傻分不清楚！](http://imweb.io/topic/58e3bfa845e5c13468f567d5)
 
+【浏览器内部】[浏览器之美，你知道多少](https://mp.weixin.qq.com/s/8NtfuoVFBp1LszXjVMB_Zw)
+
 ### 算法
 【LRU】[LRU的原理视频解析](https://www.youtube.com/watch?v=R5ON3iwx78M)
+
