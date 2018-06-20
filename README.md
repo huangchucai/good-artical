@@ -28,6 +28,8 @@
 
 【浏览器内部】[浏览器之美，你知道多少](https://mp.weixin.qq.com/s/8NtfuoVFBp1LszXjVMB_Zw)
 
+【HTPTS】[https的故事](https://mp.weixin.qq.com/s/GanPiEkJFJqURZ7HNUMXSQ)
+
 ### 算法
 【LRU】[LRU的原理视频解析](https://www.youtube.com/watch?v=R5ON3iwx78M)
 
