@@ -33,3 +33,9 @@
 ### 算法
 【LRU】[LRU的原理视频解析](https://www.youtube.com/watch?v=R5ON3iwx78M)
 
+### 服务区
+
+【linux部署nodejs】[linux 下部署nodejs（两种方式）](https://www.cnblogs.com/dubaokun/p/3558848.html)
+
+【scp拷贝本地到服务器】[scp跨机远程拷贝](http://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/scp.html#scp)
+
