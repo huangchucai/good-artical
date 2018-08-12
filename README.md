@@ -41,3 +41,4 @@
 
 【scp拷贝本地到服务器】[scp跨机远程拷贝](http://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/scp.html#scp)
 
+【深入git内部原理】[15分钟成为 GIT 专家](https://mp.weixin.qq.com/s/VMSwJIuk1BbcZerVopUWhQ)
