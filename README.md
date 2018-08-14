@@ -42,3 +42,6 @@
 【scp拷贝本地到服务器】[scp跨机远程拷贝](http://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/scp.html#scp)
 
 【深入git内部原理】[15分钟成为 GIT 专家](https://mp.weixin.qq.com/s/VMSwJIuk1BbcZerVopUWhQ)
+
+### 小程序
+ 【小程序框架学习】[30分钟从陌生到熟悉](https://www.cnblogs.com/yexiaochai/p/9437101.html) 
