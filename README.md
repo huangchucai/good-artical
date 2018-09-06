@@ -30,7 +30,11 @@
 
 【HTPTS】[https的故事](https://mp.weixin.qq.com/s/GanPiEkJFJqURZ7HNUMXSQ)
 
-【聊聊 JavaScript 与浏览器的那些事 - 引擎与线程】(https://hijiangtao.github.io/2018/01/08/JavaScript-and-Browser-Engines-with-Threads/)
+【聊聊 JavaScript 与浏览器的那些事 - 引擎与线程】[与浏览器的那些事](https://hijiangtao.github.io/2018/01/08/JavaScript-and-Browser-Engines-with-Threads/)
+
+### 性能
+【2018你应该知道的Web性能信息采集指南】[Web性能信息采集指南](https://mp.weixin.qq.com/s/UYcMeqZGblupVpGue-IThg)
+
 
 ### 算法
 【LRU】[LRU的原理视频解析](https://www.youtube.com/watch?v=R5ON3iwx78M)
